@@ -1,5 +1,5 @@
 # Lakers Turnovers Tracker
-A web scraping app that shows the turnovers leaderboard for any Lakers game from the 2021-2022 season.
+A web scraping app that takes displays a turnovers leaderboard for the Los Angeles Lakers.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45545195/148837423-2db3f3ba-08c0-4daa-93c5-5e7a193b9778.png" width=50% height=50%>
