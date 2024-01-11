@@ -1,4 +1,4 @@
-# NBA Statistics Tracker
+# Lakers Turnovers Tracker
 A web scraping app that takes displays a turnovers leaderboard for the Los Angeles Lakers.
 
 <p align="center">
