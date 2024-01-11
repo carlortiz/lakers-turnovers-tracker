@@ -2,7 +2,7 @@
 A web scraping app that takes displays a turnovers leaderboard for the Los Angeles Lakers.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45545195/148837423-2db3f3ba-08c0-4daa-93c5-5e7a193b9778.png" width=50% height=50%>
+<img src="https://github.com/carlortiz/nba-statistics-tracker/assets/45545195/ef6d575d-d516-407e-8243-9418133f911c" width=50% height=50%>
 </p>
 
 # General
